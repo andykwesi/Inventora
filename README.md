@@ -1,0 +1,2 @@
+# inventora
+asp.net core
