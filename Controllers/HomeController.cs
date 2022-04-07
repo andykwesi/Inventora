@@ -27,3 +27,4 @@ namespace Inventora.Controllers
         }
     }
 }
+//Home controller 
