@@ -22,3 +22,4 @@ namespace Inventora
                 .UseStartup<Startup>();
     }
 }
+//
